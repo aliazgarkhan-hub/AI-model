@@ -1,4 +1,4 @@
-# Jarvis: A Voice-Enabled AI Desktop Assistant
+# Maven : A Voice-Enabled AI Desktop Assistant
 
 A personal AI assistant for the terminal, inspired by Tony Stark's JARVIS. It chats with a personality you define, speaks its replies out loud, and can take real actions on your computer, like opening apps, checking system stats, and searching the web.
 
